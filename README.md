@@ -4,7 +4,7 @@
 * Logistic Regression.
 * Decision Tree.
 * SVM.
-Naive Bayes.
-kNN.
-K-Means.
-Random Forest.
+* Naive Bayes.
+* kNN.
+* K-Means.
+* Random Forest
