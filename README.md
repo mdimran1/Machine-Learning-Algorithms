@@ -8,6 +8,10 @@
 * Decision Tree.
 * Logistic Regression.
 * SVM ( Support Vector Machine)
-* 
+## Cluster Algorithms :
 * K-Means.
-* Random Forest
+* DBSCAN
+* hierarchical (agglomerative)
+## Recommendation :
+* content based recommendation
+* collaborative filtering 
